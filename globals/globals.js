@@ -57,7 +57,7 @@ const contrAddrMap = new Map([
     [artblocksMinterDAExpV0ContractName, "0x297D631516A2f66216980c37ce2DE9E1F5CF64e5"],
     [artblocksMinterDALinV0ContractName, "0xC97b465daC9f52A26F2A234c658a57f5B3f15D19"],
     [artblocksMinterSetPriceV0ContractName, "0xfe46A8F577d3367848bdd127173B7d5F14a6088C"],
-    [multicall2ContractName, "0xfe46A8F577d3367848bdd127173B7d5F14a6088C"],
+    [multicall2ContractName, "0x10aCcaADfB6aCEa7d02417260101642dEE173dA5"],
 ]);
 
 
